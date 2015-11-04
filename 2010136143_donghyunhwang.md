@@ -7,6 +7,7 @@
    
 
 ![앨범자켓](https://lh3.googleusercontent.com/-zG619nfkEJw/VT6hlEA9blI/AAAAAAAAFqw/LAAa7rt1ysY/w500-h496/ASIAN-KUNG-FU-GENERATION-Wonder-Future%25E5%2588%259D%25E5%259B%259E%25E7%2594%259F%25E7%2594%25A3%25E9%2599%2590%25E5%25AE%259A%25E7%259B%25A4-Album.jpg)
+
 *앨범자켓 사진*
 
 > **기존의 앨범과의 차이점**
