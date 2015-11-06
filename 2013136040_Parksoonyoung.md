@@ -7,6 +7,8 @@
 =========
 
 ‘통산 득점 2위’ 루니, “**맨유 레전드와 같은 기록, 내게 큰 영광**”
+   
+
 ![](http://sstatic.naver.net/people/110/201006091458204821.jpg)
 [루니기사링크](http://sports.news.naver.com/sports/index.nhn?category=worldfootball&ctg=news&mod=read&office_id=413&article_id=0000024928)
 
