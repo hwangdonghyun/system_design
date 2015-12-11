@@ -6,7 +6,7 @@
 그에 반해 DMZ에 설치된 감시체계는 적의 움직임을 제대로 탐지하지 못하는 경우가 속출 하고 있다. 지난 지뢰도발사건 때 북한의 목함지뢰 매설 장면을 군이 보유한 CCTV로 파악하는데 실패하였다. 이 사건이후 열린 고위급회담에서 북한이 매설했다는 심증 이외의 물증을 확보하지 못함에 따라 북한의 지뢰도발을 정확하게 입증하지 못했다. 또한 귀순 사건시에도 북한군의 움직임을 포착하지 못해 귀순 희망자가 직접 노크를 해서 귀순의도를 밝히는 굴욕적인 장면도 있었다. 이와 같은 사건이 지속되면 북한의 도발 및 남침에 대한 조기경보를 할 수 없기 때문에 큰 전력의 공백이 예상된다.
 CCTV는 기본적으로 Pan, Tilt, Zoom의 세 가지의 움직임을 제공한다. 하지만 이는 CCTV가 고정되어있는 정적인 상태에서의 움직임으로서 사각지대의 발생을 야기한다. 또한 사람에 의해 조작 및 감시가 수행됨으로 체력, 집중력과 같은 인체의 한계에 의해 감시 효율이 떨어진다. 사각지대의 발생을 해결하기 위해서는 정적인 CCTV를 만드는 요인인 인적자원, 전원, 데이터 전송, 조작문제를 해결한 동적인 CCTV 시스템이 요구된다.  
 
-![image1](https://sites.google.com/site/hwangemsys/dataroom/PIC2079919174.bmp)
+![image1](http://www.koreatech.ac.kr/cmm/fms/getImage.do?atchFileId=FILE_000000000001218&fileSn=0&kind=160)
 
 ![image2](https://sites.google.com/site/hwangemsys/dataroom/PIC2079919178.bmp)
 ![image3](https://sites.google.com/site/hwangemsys/dataroom/PIC2079919176.bmp)
