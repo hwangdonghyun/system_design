@@ -6,10 +6,10 @@
 그에 반해 DMZ에 설치된 감시체계는 적의 움직임을 제대로 탐지하지 못하는 경우가 속출 하고 있다. 지난 지뢰도발사건 때 북한의 목함지뢰 매설 장면을 군이 보유한 CCTV로 파악하는데 실패하였다. 이 사건이후 열린 고위급회담에서 북한이 매설했다는 심증 이외의 물증을 확보하지 못함에 따라 북한의 지뢰도발을 정확하게 입증하지 못했다. 또한 귀순 사건시에도 북한군의 움직임을 포착하지 못해 귀순 희망자가 직접 노크를 해서 귀순의도를 밝히는 굴욕적인 장면도 있었다. 이와 같은 사건이 지속되면 북한의 도발 및 남침에 대한 조기경보를 할 수 없기 때문에 큰 전력의 공백이 예상된다.
 CCTV는 기본적으로 Pan, Tilt, Zoom의 세 가지의 움직임을 제공한다. 하지만 이는 CCTV가 고정되어있는 정적인 상태에서의 움직임으로서 사각지대의 발생을 야기한다. 또한 사람에 의해 조작 및 감시가 수행됨으로 체력, 집중력과 같은 인체의 한계에 의해 감시 효율이 떨어진다. 사각지대의 발생을 해결하기 위해서는 정적인 CCTV를 만드는 요인인 인적자원, 전원, 데이터 전송, 조작문제를 해결한 동적인 CCTV 시스템이 요구된다.  
 
-![image1](https://sites.google.com/site/hwangemsys/dataroom/PIC2079919174.bmp?attredirects=0)
+![image1](https://sites.google.com/site/hwangemsys/dataroom/PIC2079919174.bmp)
 
-![image2](https://sites.google.com/site/hwangemsys/dataroom/PIC2079919178.bmp?attredirects=0)
-![image3](https://sites.google.com/site/hwangemsys/dataroom/PIC2079919176.bmp?attredirects=0)
+![image2](https://sites.google.com/site/hwangemsys/dataroom/PIC2079919178.bmp)
+![image3](https://sites.google.com/site/hwangemsys/dataroom/PIC2079919176.bmp)
 
 <br>
 <br>
@@ -82,7 +82,7 @@ Ans3. CCTV는 신뢰성 높은 움직임을 보여야 하기 때문에 전원과
 ##2.1 기존 유사 제품
 우리의 아이디어와 유사한 상용제품이 있는지 검색해보았다. 검색 결과 프랑스의 TEB이라는 CCTV 전문회사의 TUB라는 CCTV 솔루션이 우리의 아이디어와 유사한 점이 있었다. 
 
-![image4](https://sites.google.com/site/hwangemsys/dataroom/PIC2079919198.bmp?attredirects=0)
+![image4](https://sites.google.com/site/hwangemsys/dataroom/PIC2079919198.bmp)
 **그림1. TAB사의 TUB 제품 개요**
 
 이들 또한 기존의 PTZ 카메라의 정적인 움직임을 해결하고자 하였고 이를 레일 시스템을 통해 해결했다. 레일 시스템 상에 PTZ카메라가 자유롭게 움직이게 함으로서 사각지대를 없앴다. 또한 이 시스템을 통해 우리가 실현하고자 했던 예산 절감이라는 목표를 달성하고 있었다. 
@@ -92,7 +92,7 @@ Ans3. CCTV는 신뢰성 높은 움직임을 보여야 하기 때문에 전원과
   우리의 아이디어는 기존의 TUB제품과 비교하여 다음 표1과 같은 차이점을 가지고 있다.
 
 
-![image5](https://sites.google.com/site/hwangemsys/dataroom/PIC2079919212.bmp?attredirects=0)
+![image5](https://sites.google.com/site/hwangemsys/dataroom/PIC2079919212.bmp)
 **표1. TUB와 우리의 아이디어의 차이점**
 
   TUB는 제한적인 규모에서의 활용을 목적으로 개발되어 있다. 따라서 CCTV노드 상호간의 통신을 지원하지 않는다. 또한 동작의 신뢰성이 전반적으로 설치된 장소의 기반시설에 의존한다. 따라서 기반시설에 문제가 생기면 감시 시스템도 같이 문제가 생긴다. 
@@ -106,22 +106,22 @@ TUB는 전원과 네트워크에 대한 보조적인 장비가 지원되지 않�
 ##2.4 문제 해결을 위한 아이디어
 ####2.4.1 idea 1
 
-![image6](https://sites.google.com/site/hwangemsys/dataroom/PIC2079919220.bmp?attredirects=0)
+![image6](https://sites.google.com/site/hwangemsys/dataroom/PIC2079919220.bmp)
 >동적인 움직임을 위한 Rail System 채용   
 >레일 위를 움직이게 함으로 사각지대를 예방
 
 ####2.4.2 idea 2
-![image7](https://sites.google.com/site/hwangemsys/dataroom/PIC2079919224.bmp?attredirects=0)
+![image7](https://sites.google.com/site/hwangemsys/dataroom/PIC2079919224.bmp)
 >기존의 정적인 PTZ CCTV의 제한된 탐지 범위를 확대가능
 
 ####2.4.3 idea 3
-![image8](https://sites.google.com/site/hwangemsys/dataroom/PIC2079919228.bmp?attredirects=0)
+![image8](https://sites.google.com/site/hwangemsys/dataroom/PIC2079919228.bmp)
 >차영상을 이용하여 움직이는 물체 탐지 및 추적   
 >스스로 적의 움직임을 탐색 및 운용병사의 수동조작 감소   
 >IR 카메라를 통해 야간 감시 가능
 
 ####2.4.4 idea 4
-![image9](https://sites.google.com/site/hwangemsys/dataroom/PIC2079919232.bmp?attredirects=0)
+![image9](https://sites.google.com/site/hwangemsys/dataroom/PIC2079919232.bmp)
 >**LTE 등의 일반 통신망 마비 시**   
 >이상상황 미 발생 시 : Delay-Tolerant Network   
 >이상상황 발생 시 : Wireless Sensor Network를 통한 이상상황 보고
